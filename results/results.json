@@ -1,0 +1,488 @@
+{
+  "results": {
+    "ANN_8": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986236333847046,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 12,
+      "train_time_s": 20.23595428466797,
+      "n_per_cipher": 131072
+    },
+    "DNN_8": {
+      "test_acc": 0.3338589072227478,
+      "test_loss": 1.0986151695251465,
+      "confusion_matrix": [
+        [
+          0,
+          844,
+          25371
+        ],
+        [
+          0,
+          846,
+          25369
+        ],
+        [
+          0,
+          804,
+          25410
+        ]
+      ],
+      "n_epochs": 7,
+      "train_time_s": 19.30053400993347,
+      "n_per_cipher": 131072
+    },
+    "1D-CNN_8": {
+      "test_acc": 0.3354610502719879,
+      "test_loss": 1.098496913909912,
+      "confusion_matrix": [
+        [
+          582,
+          23946,
+          1687
+        ],
+        [
+          484,
+          24094,
+          1637
+        ],
+        [
+          500,
+          24008,
+          1706
+        ]
+      ],
+      "n_epochs": 7,
+      "train_time_s": 48.056270122528076,
+      "n_per_cipher": 131072
+    },
+    "FFNN_8": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986169576644897,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 9,
+      "train_time_s": 12.584320068359375,
+      "n_per_cipher": 131072
+    },
+    "ANN_24": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986701250076294,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 10,
+      "train_time_s": 23.509724140167236,
+      "n_per_cipher": 131072
+    },
+    "DNN_24": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.098623275756836,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 7,
+      "train_time_s": 19.724976301193237,
+      "n_per_cipher": 131072
+    },
+    "1D-CNN_24": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986530780792236,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 6,
+      "train_time_s": 92.79663801193237,
+      "n_per_cipher": 131072
+    },
+    "FFNN_24": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.098613977432251,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 8,
+      "train_time_s": 11.171896934509277,
+      "n_per_cipher": 131072
+    },
+    "ANN_32": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986671447753906,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 11,
+      "train_time_s": 30.57239294052124,
+      "n_per_cipher": 131072
+    },
+    "DNN_32": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986241102218628,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 9,
+      "train_time_s": 25.68704915046692,
+      "n_per_cipher": 131072
+    },
+    "1D-CNN_32": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986417531967163,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 10,
+      "train_time_s": 199.76252913475037,
+      "n_per_cipher": 131072
+    },
+    "FFNN_32": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986157655715942,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 9,
+      "train_time_s": 12.891913890838623,
+      "n_per_cipher": 131072
+    },
+    "ANN_64": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.098644733428955,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 6,
+      "train_time_s": 32.661444902420044,
+      "n_per_cipher": 131072
+    },
+    "DNN_64": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986318588256836,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 12,
+      "train_time_s": 36.05789589881897,
+      "n_per_cipher": 131072
+    },
+    "1D-CNN_64": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986517667770386,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 15,
+      "train_time_s": 487.38322925567627,
+      "n_per_cipher": 131072
+    },
+    "FFNN_64": {
+      "test_acc": 0.33333757519721985,
+      "test_loss": 1.0986149311065674,
+      "confusion_matrix": [
+        [
+          26215,
+          0,
+          0
+        ],
+        [
+          26215,
+          0,
+          0
+        ],
+        [
+          26214,
+          0,
+          0
+        ]
+      ],
+      "n_epochs": 10,
+      "train_time_s": 14.022279977798462,
+      "n_per_cipher": 131072
+    },
+    "ANN_1024": {
+      "test_acc": 0.3333333432674408,
+      "test_loss": 1.098642110824585,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          2400
+        ],
+        [
+          0,
+          0,
+          2400
+        ],
+        [
+          0,
+          0,
+          2400
+        ]
+      ],
+      "n_epochs": 9,
+      "train_time_s": 440.72118878364563,
+      "n_per_cipher": 12000
+    },
+    "DNN_1024": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.0986170768737793,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 10,
+      "train_time_s": 67.96475791931152,
+      "n_per_cipher": 131072
+    },
+    "1D-CNN_1024": {
+      "test_acc": 0.3390277922153473,
+      "test_loss": 1.0984864234924316,
+      "confusion_matrix": [
+        [
+          128,
+          353,
+          1919
+        ],
+        [
+          104,
+          384,
+          1912
+        ],
+        [
+          105,
+          366,
+          1929
+        ]
+      ],
+      "n_epochs": 6,
+      "train_time_s": 204.3121268749237,
+      "n_per_cipher": 12000
+    },
+    "FFNN_1024": {
+      "test_acc": 0.3333248496055603,
+      "test_loss": 1.098626732826233,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26215
+        ],
+        [
+          0,
+          0,
+          26214
+        ]
+      ],
+      "n_epochs": 7,
+      "train_time_s": 9.952862977981567,
+      "n_per_cipher": 131072
+    }
+  },
+  "deviations": [
+    "ANN at L=1024: used 12000 samples/cipher instead of full 131072 (reduced from full 2^17 due to CPU compute-time cost of large dense/one-hot layers at this length)",
+    "1D-CNN at L=1024: used 12000 samples/cipher instead of full 131072 (reduced from full 2^17 due to CPU compute-time cost of large dense/one-hot layers at this length)"
+  ]
+}
